@@ -4,3 +4,6 @@
   in, then they can contact the dealership via contact page on the website by providing     their offer and willingness to pay for a particular car.
 # Screenshots
   ![](https://github.com/shagan96/CarDealership/blob/main/Screenshot1.png)
+  ![](https://github.com/shagan96/CarDealership/blob/main/Screenshot2.png)
+  ![](https://github.com/shagan96/CarDealership/blob/main/Screenshot3.png)
+  ![](https://github.com/shagan96/CarDealership/blob/main/Screenshot4.png)
